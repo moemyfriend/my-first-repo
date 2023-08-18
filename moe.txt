@@ -1,6 +1,4 @@
 <<<<<<< HEAD
 this is your world moe
 =======
-this is my world only
-new change this is my life
->>>>>>> 1ddcf8aee66668687bdcbff507880bb9bce48c67
+
