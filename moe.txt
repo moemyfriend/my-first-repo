@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+this is my life and i am learn how to use git hub
+
+this is amazaing.
 this is your world moe
-=======
 
 this is a test to see if this wrrks
